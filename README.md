@@ -1,2 +1,2 @@
 # latex-template
-Template for a latex repository
+Template for a LaTeX repository
